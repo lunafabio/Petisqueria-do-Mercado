@@ -1,4 +1,4 @@
 # Petisqueria do Mercado
-Primeiro repositório vrsionado - site
+Primeiro repositório versionado - site
 
 Vamos preparar este site
